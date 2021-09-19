@@ -1,0 +1,15 @@
+{
+    "variant": 14,
+    "figures": [
+      "Rhombus",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "containers": [
+      "TVector",
+      "TQueue"
+    ],
+    "finished_labs": {
+      "lab1": "lab1"
+    }
+  }
